@@ -2,4 +2,6 @@ font-family = ""
 font-family = "SF Mono Medium"
 font-size = 16.0
 font-thicken
-theme = zenbones_light
+window-padding-balance = t
+window-padding-x = 20
+config-file = themes/modus-operandi
