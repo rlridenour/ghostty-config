@@ -5,3 +5,10 @@ font-thicken
 window-padding-balance = t
 window-padding-x = 20
 config-file = themes/modus-operandi
+
+# getting a blocky cursor instead of the simple dash
+adjust-cursor-thickness=5000%
+
+mouse-hide-while-typing = true
+
+keybind = super+r=reload_config
