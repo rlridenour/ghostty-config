@@ -9,6 +9,18 @@ theme = light:modus-operandi,dark:modus-vivendi
 # getting a blocky cursor instead of the simple dash
 adjust-cursor-thickness=5000%
 
+# Window Split
+
+keybind = super+3=new_split:right
+keybind = super+2=new_split:up
+keybind = super+left=goto_split:left
+keybind = super+right=goto_split:right
+keybind = super+up=goto_split:top
+keybind = super+down=goto_split:bottom
+
+unfocused-split-opacity = 0.35
+# unfocused-split-fill = ffc0cb
+
 mouse-hide-while-typing = true
 
 keybind = super+r=reload_config
